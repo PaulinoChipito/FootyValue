@@ -1,0 +1,5 @@
+{
+  "name": "FootyValue - Football Analysis",
+  "description": "Advanced pre-match football analysis tool using Monte Carlo simulations to identify value bets in combined markets.",
+  "requestFramePermissions": []
+}
